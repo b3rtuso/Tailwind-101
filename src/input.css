@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.gray{
+    background: #B0D2DA;
+}
+
+.cyan{
+    background-color: #CAB29F;
+}
+
+.header{
+    color: #7DA1BF;
+}
+
+.body{
+    color: #2F4A60;
+}
