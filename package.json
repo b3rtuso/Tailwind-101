@@ -3,4 +3,8 @@
     "@tailwindcss/cli": "^4.1.13",
     "tailwindcss": "^4.1.13"
   }
+  ,
+  "scripts": {
+    "tailwind": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  }
 }
